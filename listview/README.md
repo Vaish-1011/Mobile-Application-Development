@@ -186,13 +186,16 @@ public View getView(int position,View view,ViewGroup parent) {
         return rowView;
         };
 }
+
 ```
 ## OUTPUT
-![2023-06-01 (7)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/5030f59a-47e0-4b19-843f-aa1c89a4edb0)
-![2023-06-01 (8)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/3b4f81a4-04bc-44f5-ae6c-dd3259dfca83)
-![2023-06-01 (9)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/bf2b308c-6158-4a14-ac70-c6bc693ba994)
-![2023-06-01 (10)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/dd0760a4-e0a7-43e4-ac2e-37a16b7dea28)
-![2023-06-01 (11)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/64964404-2ba5-4fbe-add6-75a1b204f9ac)
+![2023-06-01 (7)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/0b1e1993-10af-4f76-a696-e8617b9ef708)
+![2023-06-01 (8)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/79036161-4330-4d39-bad4-7c4509181ba7)
+![2023-06-01 (9)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/afab170d-22a0-4b14-a93b-003a442ec147)
+![2023-06-01 (10)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/7a3bf546-3463-429f-85ab-bcb6c40e6e4c)
+![2023-06-01 (11)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/c36644ed-7840-4f9e-a7f4-1d3b066b20e8)
 
+    
+    
 ## RESULT
 Thus a Simple Android Application to create and develop the application to display the place name with image using list view in android studio is developed and executed successfully.
