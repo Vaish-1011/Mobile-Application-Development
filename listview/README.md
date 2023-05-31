@@ -186,7 +186,6 @@ public View getView(int position,View view,ViewGroup parent) {
         return rowView;
         };
 }
-
 ```
 ## OUTPUT
 ![2023-06-01 (7)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/5030f59a-47e0-4b19-843f-aa1c89a4edb0)
