@@ -152,7 +152,6 @@ public class MainActivity extends AppCompatActivity {
  }
 ```
 ## OUTPUT
-![2023-05-31 (22)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/433735e0-624c-4166-ab25-6a427c28a19d)
 ![2023-05-31 (23)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/92d21de2-2f45-4beb-8882-6a6ad3eb3c3c)
 ![2023-05-31 (24)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/2e06736c-1ec4-4c4a-a22a-3536b99d494b)
 ![2023-05-31 (25)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/1ef083db-d784-4cf0-8e60-25fe611c8ba4)
