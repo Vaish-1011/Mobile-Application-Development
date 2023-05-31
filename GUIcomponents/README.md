@@ -17,13 +17,17 @@ Latest Version Android Studio
 ```
 /*
 Program to print the text “GUIcomponent”.
-Developed by:
-Registeration Number :
+Developed by:Vaishnavi M
+Registeration Number :212221040175
 */
+```
+## activity_main.xml
+```
+
 ```
 
 ## OUTPUT
-
+![WhatsApp Image 2023-05-30 at 14 13 09](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/80630a14-9a4a-4f31-bbd5-7edfa8cd789c)
 
 
 
