@@ -68,16 +68,17 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
     ListView list;
     String[] maintitle ={
-            "MERCURY","VENUS",
-            "EARTH","MARS",
-            "JUPITER","SATURN",
-            "URANUS","NEPTUNE"
+            "ITALY","INDIA",
+            "CHINA","USA",
+            "SOUTH_KOREA","JAPAN",
+            "PAKISTAN"
     };
     Integer[] imgid={
-            R.drawable.mercury,R.drawable.venus,
-            R.drawable.earth,R.drawable.mars,
-            R.drawable.jupiter,R.drawable.saturn,
-            R.drawable.uranus,R.drawable.neptune
+            R.drawable.italy,R.drawable.india,
+            R.drawable.china,R.drawable.usa,
+            R.drawable.south_korea,R.drawable.japan,
+            R.drawable.pakistan
+
     };
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -192,13 +193,13 @@ public View getView(int position,View view,ViewGroup parent) {
 
 ```
 ## OUTPUT
-![2023-06-01 (7)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/0b1e1993-10af-4f76-a696-e8617b9ef708)
-![2023-06-01 (8)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/79036161-4330-4d39-bad4-7c4509181ba7)
-![2023-06-01 (9)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/afab170d-22a0-4b14-a93b-003a442ec147)
-![2023-06-01 (10)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/7a3bf546-3463-429f-85ab-bcb6c40e6e4c)
-![2023-06-01 (11)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/c36644ed-7840-4f9e-a7f4-1d3b066b20e8)
 
-    
+
+![2023-06-07 (7)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/2a392b62-c873-4e33-9a3a-6398fd93c1eb)
+![2023-06-07 (8)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/f60f4c7e-9ae0-431e-ac85-6541e85193bf)
+![2023-06-07 (9)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/0e72ff41-7cf9-4fb5-a948-ae3ad100e066)
+![2023-06-07 (10)](https://github.com/Vaish-1011/Mobile-Application-Development/assets/135130074/ea3d8dcc-5651-4287-8568-addf45f4ac52)
+
     
 ## RESULT
 Thus a Simple Android Application to create and develop the application to display the place name with image using list view in android studio is developed and executed successfully.
